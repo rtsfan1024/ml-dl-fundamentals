@@ -27,6 +27,10 @@ Thumbs.db
 assets/data/cnn_dailymail_full.csv
 assets/models/data/cifar-10-python.tar.gz
 assets/models/.data/cifar-10-python.tar.gz
+assets/models/data/cifar-10-batches-py/
+assets/models/data/cifar10_min_cnn/
+assets/models/.data/resnet18_cifar10_best.pth
+assets/models/quick_ckpt/
 
 # Claude Code
 .claude/
