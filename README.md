@@ -225,6 +225,15 @@ python rl.py    # 训练 320 局后自动启动动画可视化
 
 ---
 
+## 数据来源
+
+| 文件 | 来源 | 说明 |
+|------|------|------|
+| `cifar-10-python.tar.gz` | [CIFAR-10 官网](https://www.cs.toronto.edu/~kriz/cifar.html) | 10 类 32x32 彩色图片，60000 张（由 PyTorch 自动下载） |
+| `cnn_dailymail_full.csv` | [HuggingFace - CNN/DailyMail](https://huggingface.co/datasets/abisee/cnn_dailymail/tree/main/3.0.0) | 新闻摘要数据集，用于文本摘要实验 |
+
+---
+
 ## 环境依赖
 
 ```bash
